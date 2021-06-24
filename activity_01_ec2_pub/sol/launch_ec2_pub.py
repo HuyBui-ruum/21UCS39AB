@@ -1,7 +1,7 @@
 # CS39AB - Cloud Computing - Summer 2021
 # Instructor: Thyago Mota
 # Description: Activity 01 - Launch EC2 instance on a public subnet
-
+# githubtest
 import boto3
 import json
 import time
